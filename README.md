@@ -1,5 +1,7 @@
 == README
 
+THis is my first Ruby App while following Ruby on Rails Tutorial.... Pretty excited to say hello world.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
